@@ -1,0 +1,12 @@
+crisp 1.2 -> scores novos (p3 e p4) fazer comparação
+bvs_renda_score -> scrc, rndr 
+
+to do -> adicionar esses dois novos score acima e 
+retreinar o modelo 1.4 (método backward) ver se 
+KS melhora (ks atual é 24.42), 
+se melhora refazer as análises de KS e ordenação
+
+ambos os públicos: cli e ncli
+
+fazer a msm análise pra quod (menos a parte de treinar modelo)
+
